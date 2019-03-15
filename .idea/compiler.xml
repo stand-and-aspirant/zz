@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="base-system" />
+        <module name="bill-manage" />
+        <module name="device-manage" />
+        <module name="file" />
+        <module name="finance" />
+        <module name="intercept" />
+        <module name="message" />
+        <module name="operation" />
+        <module name="project-seed" />
+        <module name="report" />
+        <module name="system-manage" />
+        <module name="ware-task" />
+        <module name="wcs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="base-system" target="1.8" />
+      <module name="bill-manage" target="1.8" />
+      <module name="device-manage" target="1.8" />
+      <module name="file" target="1.8" />
+      <module name="finance" target="1.8" />
+      <module name="intercept" target="1.8" />
+      <module name="message" target="1.8" />
+      <module name="operation" target="1.8" />
+      <module name="project-seed" target="1.8" />
+      <module name="report" target="1.8" />
+      <module name="system-manage" target="1.8" />
+      <module name="thundershower" target="1.8" />
+      <module name="ware-task" target="1.8" />
+      <module name="wcs" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
